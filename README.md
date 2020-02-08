@@ -14,3 +14,7 @@ Here is a picture of a test circuit design.
 ## Final Design for Sorting the Coins
 
 ![](finaldes.gif)
+
+## Demo of 1 cent being inserted
+
+![](demoing.gif)
