@@ -11,5 +11,6 @@ Here is a picture of a test circuit design.
 ![](testphase.jpg)
 ![](testphase1.jpg)
 
-##Final Design for Sorting the Coins
+## Final Design for Sorting the Coins
+
 ![](finaldes.gif)
